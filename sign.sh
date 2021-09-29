@@ -8,7 +8,7 @@ echo 'Welcome to zsign iOS app signer'
 cd /root/ipas/
 for i in *.ipa ; do
 #echo $i
-#making zsign executable
+# making zsign executable
 chmod +x /root/zsign
 # path to zsign compiled file, you Apple developer/Enterprise certificate.
 /root/zsign -k "/root/foldercert/certificate.p12" -m "/root/foldercert/udid.mobileprovision" -p "1234" -z 9 -o /root/ipas/output/$i "$i" 
