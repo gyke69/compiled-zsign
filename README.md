@@ -49,7 +49,7 @@ options:
 #### Signing with bash script:
 bash script gives you the ability to sign multiple ipa usign zsign usage, make sure you edit it according to your credential.
 #### Tip!
-In order to sign fast an ipa files make sure you backspace the -z 9 from the script file.
+In order to sign fast bunch of ipa files make sure you backspace -z 9 from bash script file.
 
 
 ### Copyright
