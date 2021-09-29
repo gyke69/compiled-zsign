@@ -1,5 +1,5 @@
 # Compiled zsign + Signing script
-I will keep compiling the latest version of zsign and the signing script in this repository!
+ in this repository i will compile the latest version of zsign, inclduing signing scipt.
 
 
 # let's get started!
