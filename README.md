@@ -11,7 +11,7 @@ requirements:
 
 ````sh
 sudo apt-get install git zip unzip &&
-git clone git@github.com:gyke69/compiled-zsign.git &&
+git clone https://github.com/gyke69/compiled-zsign.git &&
 cd compiled-zsign && chmod +x zsign sign.sh
 ````
 #### zsign usage:
