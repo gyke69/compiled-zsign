@@ -1,2 +1,5 @@
-# Compiled zSign + bash script
-Compiled zsign for Linux distribution
+# Compiled zsign + Signing script
+i will keep compiling the latest version of zsign in this repository!
+
+
+
