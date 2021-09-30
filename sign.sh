@@ -1,6 +1,6 @@
 #!/bin/sh
 # Copyright 2020-2021 Anosh Khiyam, aka gyke69.
-# zsign has its own usage so use it according to your need!
+# zsign has its own usage so use it in accordance with your needs.
 # FYI - do chmod +x zsign then (./zsign -h ) it wil show the usage of zsign.
 
 echo 'Welcome to zsign iOS app signer'
